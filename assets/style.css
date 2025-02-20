@@ -1,0 +1,65 @@
+body {
+    background-color: white;
+    color:white;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* custom navbar */
+
+.nav-custom {
+    background-color: #280137;
+    color: #fff;
+}
+.navbar-brand {
+    color: white;
+}
+.navbar-brand:hover {
+    color:white;
+    text-decoration: underline;
+}
+.nav-link {
+    color: #fff;
+}
+.nav-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+.navbar-nav {
+    color: white;
+}
+/* custom color */
+
+.navbar ul{
+    align-items: center;
+    text-align: center;
+}
+
+.hero {
+    background: #fff;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.name {
+    color: black;
+}
+/* Featured */
+ .featured {
+    background: #280137;
+    height: 200px;
+} 
+
+/* blog stylings */
+.blog {
+    background-color: #280137;
+}
+
+.blog-post-meta a {
+    color: white;
+}
+
